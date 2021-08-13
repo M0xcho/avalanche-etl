@@ -1,6 +1,8 @@
 # Avalanche-etl
 Python scripts for ETL (extract, transform and load) jobs for Avalanche's c-chain blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions.
 
+** Currently supports blocks, transactions and token transfers.
+
 # Instructions
 
 1 - Create postgres database & run postgres service
